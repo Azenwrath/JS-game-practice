@@ -1,0 +1,10 @@
+h1{
+	color: blue;
+	font-size: 32px;
+	font-family: "Georgia";
+}
+canvas {
+	border: 1px solid #d3d3d3;
+	background-color: #f1f1f1;
+	
+}
